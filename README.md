@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://amalpr2000.github.io/PersonalWebsite/" target="_blank">Visit</a></p>
+<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://damnlebowski.github.io/PERSONAL-PORTFOLIO/" target="_blank">Visit</a></p>
 
 
 ###
@@ -63,10 +63,10 @@
   <a href="mailto: rahul.ak5122000@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/amal_p_r_/" target="_blank">
+  <a href="https://www.instagram.com/r_a_hu.l_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/amal-p-r-b992771a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-u-2k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
   </a>
   <a href="http://wa.me/919207929549" target="_blank">
