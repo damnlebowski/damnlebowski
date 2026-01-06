@@ -9,7 +9,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=950&lines=I'm+a+Flutter+Developer;I'm+a+Web+Designer;I'm+a+Self+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=950&lines=Flutter+Developer+with+2.4+Years+Experience;Building+Production-Ready+Mobile+Apps;Expert+in+GetX+%26+Real-time+Features;Open+to+Freelancing+%26+Remote+Work" alt="Typing SVG" /></a>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 Self Learner<br>💻 I’m currently Working on Mobile App(Flutter)<br>🤝 I’m available for freelancing.<br>🌐Personal Website <a href="https://damnlebowski.github.io/PERSONAL-PORTFOLIO/" target="_blank">Visit</a></p>
+<p align="left">👨‍💻 Flutter Developer at Magadh Digital Solutions Pvt Ltd<br>📱 2.4+ years building production-ready Android & iOS apps<br>🚀 Expert in GetX, Firebase, Real-time Chat & Deep Linking<br>💾 Proficient in local storage solutions (SQLite, Hive, GetStorage, Drift)<br>🔥 Experience with WebSocket, Socket.io & real-time features<br>🌐 Backend knowledge: Node.js, Express, MongoDB<br>📍 Based in Gurugram, India | Open to Relocate<br>🤝 Available for freelancing & remote opportunities<br>🔗 Portfolio: <a href="https://damnlebowski.github.io/PERSONAL-PORTFOLIO/" target="_blank">Visit</a></p>
 
 
 ###
@@ -31,13 +31,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="65" width="110" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" width="110" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="110" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" width="110" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="110" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="65" width="110" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" width="110" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="65" width="110" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="65" width="110" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" width="110" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" width="110" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="65" width="110" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="65" width="110" alt="socketio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" width="110" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="110" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="110" alt="html5 logo"  />
 </div>
 
 ###
@@ -47,8 +50,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=damnlebowski" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=damnlebowski" height="150" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api?username=damnlebowski&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damnlebowski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="language stats"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damnlebowski&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
