@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">👨‍💻 Flutter Developer at Magadh Digital Solutions Pvt Ltd<br>📱 2.4+ years building production-ready Android & iOS apps<br>🚀 Expert in GetX, Firebase, Real-time Chat & Deep Linking<br>💾 Proficient in local storage solutions (SQLite, Hive, GetStorage, Drift)<br>🔥 Experience with WebSocket, Socket.io & real-time features<br>🌐 Backend knowledge: Node.js, Express, MongoDB<br>🤝 Available for freelancing opportunities<br>🔗 Portfolio: <a href="https://damnlebowski.github.io/PERSONAL-PORTFOLIO/" target="_blank">Visit</a></p>
+<p align="left">👨‍💻 Flutter Developer at Magadh Digital Solutions Pvt Ltd<br>📱 3+ years building production-ready Android & iOS apps<br>🚀 Expert in GetX, Firebase, Real-time Chat & Deep Linking<br>💾 Proficient in local storage solutions (SQLite, Hive, GetStorage, Drift)<br>🔥 Experience with WebSocket, Socket.io & real-time features<br>🌐 Backend knowledge: Node.js, Express, MongoDB<br>🤝 Available for freelancing opportunities<br>🔗 Portfolio: <a href="https://damnlebowski.github.io/PERSONAL-PORTFOLIO/" target="_blank">Visit</a></p>
 
 
 ###
